@@ -34,6 +34,8 @@ public class VMSystem {
 
     /**
      * 客户端和合作商登录时用来生成jwt token的secret
+     *
+     *
      */
     public static final String JWT_SECRET = "lkd+login+secret";
 
